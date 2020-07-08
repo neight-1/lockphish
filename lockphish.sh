@@ -5,7 +5,7 @@
 # Read the License before using any part from this code.
 
 trap 'printf "\n";stop' 2
-
+ 
 banner() {
 
 
